@@ -1,0 +1,8 @@
+jupyterlab
+natsort
+numpy
+matplotlib
+pandas
+intel-tensorflow
+seaborn
+scikit-learn
